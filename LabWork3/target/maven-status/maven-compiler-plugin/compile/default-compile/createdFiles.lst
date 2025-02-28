@@ -1,0 +1,9 @@
+Figures\Figure.class
+Figures\Pawn.class
+com\louie\labwork3\Chess\Board.class
+Figures\King.class
+Figures\Queen.class
+Figures\Knight.class
+com\louie\labwork3\Chess\Main.class
+Figures\Bishop.class
+Figures\Rook.class
